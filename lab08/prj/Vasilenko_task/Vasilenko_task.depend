@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622671187 source:c:\users\glina\git\kostiantyn-vasylenko-kb20\lab08\prj\vasilenko_task\main.cpp
+	<iostream>
+	"ModulesVasilenko.h"
+	<locale.h>
+	<windows.h>
+
